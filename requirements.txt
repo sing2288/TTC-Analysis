@@ -1,0 +1,12 @@
+streamlit 
+pandas 
+datetime
+seaborn
+matplotlib.pyplotre
+calender
+sqlalchemy
+pyodbc
+scipy.stats
+numpy
+sklearn
+xgboost
