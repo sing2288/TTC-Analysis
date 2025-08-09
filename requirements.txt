@@ -7,5 +7,5 @@ sqlalchemy
 pyodbc
 scipy
 numpy
-sklearn
+scikit-learn
 xgboost
