@@ -3,7 +3,6 @@ pandas
 datetime
 seaborn
 matplotlib
-calender
 sqlalchemy
 pyodbc
 scipy.stats
