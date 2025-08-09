@@ -2,7 +2,7 @@ streamlit
 pandas 
 datetime
 seaborn
-matplotlib.pyplotre
+matplotlib
 calender
 sqlalchemy
 pyodbc
